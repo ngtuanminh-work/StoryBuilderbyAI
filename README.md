@@ -62,6 +62,7 @@ Hỗ trợ **7 AI Provider**, **lưu nhiều key cùng lúc** cho mỗi hãng:
 | ✨ OpenAI | GPT-4o mini | $5 credit khi đăng ký |
 | 🔀 OpenRouter | DeepSeek V3 Free | Hàng trăm model, nhiều cái miễn phí |
 | 🧠 Cerebras | Qwen3 235B | 1.000.000 token/ngày miễn phí |
+| 💾 Ollama | Qwen2.5 14B | Chạy local ngay trên máy |
 
 - ✅ **Test kết nối** ngay sau khi nhập key
 - ✅ **Quick-select** chuyển giữa các key bằng 1 click
