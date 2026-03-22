@@ -8,7 +8,7 @@
 ## ⚡ Bắt đầu ngay
 
 ```
-1. Tải file 3 file index, script, style về máy
+1. Tải file 3 file index, app, style về máy
 2. Mở file index bằng trình duyệt (double-click)
 3. Đăng ký tài khoản cục bộ
 4. Nhập API Key của bất kỳ AI nào bên dưới
